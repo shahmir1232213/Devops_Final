@@ -1,0 +1,17 @@
+{
+  "name": "phoenix-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "build": "vite build",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "vitest": "^4.1.9"
+  }
+}
